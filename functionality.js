@@ -68,6 +68,7 @@ function dropdownOptions(){
         option.value = answerArr[item].title;
         x.add(option);
     }
+    $('#guess').select2();
 }
 
 function resetUI(){
