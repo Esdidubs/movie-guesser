@@ -1747,12 +1747,12 @@ let answerData = [
     }, 
     {
         title: 'Little Miss Sunshine',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2006',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Jonathan Dayton, Valerie Faris',
+        clue4: 'Tagline: Everyone just pretend to be normal',
+        clue5: 'Characters: Frank, Sheryl, Olive',
+        clue6: 'Stars: Steve Carell, Toni Collette, Abigail Breslin'
     }, 
     {
         title: 'Coming to America',
@@ -2620,21 +2620,21 @@ let answerData = [
     }, 
     {
         title: 'I Am Legend',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2007',
+        clue2: 'Genre: Action, Drama, Sci-Fi',
+        clue3: 'Director: Francis Lawrence',
+        clue4: 'Tagline: The last man on earth is not alone',
+        clue5: 'Characters: Robert Neville, Anna, Alpha Female',
+        clue6: 'Stars: Will Smith, Alice Braga, Charlie Tahan'
     }, 
     {
         title: 'American Hustle',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2013',
+        clue2: 'Genre: Crime, Drama',
+        clue3: 'Director: David O. Russell',
+        clue4: 'Tagline: Everyone Hustles To Survive',
+        clue5: 'Characters: Irving Rosenfeld, Sydney Prosser, Richie DiMaso',
+        clue6: 'Stars: Christian Bale, Amy Adams, Bradley Cooper'
     }, 
     {
         title: 'Planet of the Apes',
@@ -2665,12 +2665,12 @@ let answerData = [
     }, 
     {
         title: 'District 9',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Action, Sci-Fi, Thriller',
+        clue3: 'Director: Neill Blomkamp',
+        clue4: 'Tagline: You are not welcome here.',
+        clue5: 'Characters: Wikus Van De Merwe, Koobus Venter, Sarah Livingstone - Sociologist',
+        clue6: 'Stars: Sharlto Copley, David James, Jason Cope'
     }, 
     {
         title: 'Sherlock Holmes',
@@ -2764,12 +2764,12 @@ let answerData = [
     }, 
     {
         title: 'The Little Mermaid',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1989',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Ron Clements, John Musker',
+        clue4: 'Tagline: Sea it',
+        clue5: 'Characters: Ariel, Sebastian, Flounder',
+        clue6: 'Stars: Jodi Benson, Samuel E. Wright, Rene Auberjonois'
     }, 
     {
         title: 'Minority Report',
@@ -3133,12 +3133,12 @@ let answerData = [
     }, 
     {
         title: 'The Addams Family',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1991',
+        clue2: 'Genre: Comedy, Fantasy',
+        clue3: 'Director: Barry Sonnenfeld',
+        clue4: "Tagline: It's not the same old Thing.",
+        clue5: 'Characters: Gomez, Morticia, Uncle Fester',
+        clue6: 'Stars: Anjelica Huston, Raul Julia, Christopher Lloyd'
     }, 
     {
         title: 'Pineapple Express',
@@ -3169,12 +3169,12 @@ let answerData = [
     }, 
     {
         title: '50/50',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2011',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Jonathan Levine',
+        clue4: 'Tagline: It takes a pair to beat the odds',
+        clue5: 'Characters: Adam, Kyle, Richard - Alzheimer Dad',
+        clue6: 'Stars: Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick'
     }, 
     {
         title: "National Lampoon's Vacation",
@@ -3241,12 +3241,12 @@ let answerData = [
     }, 
     {
         title: 'Office Space',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1999',
+        clue2: 'Genre: Comedy',
+        clue3: 'Director: Mike Judge',
+        clue4: 'Tagline: Work Sucks.',
+        clue5: 'Characters: Peter, Joanna, Michael Bolton',
+        clue6: 'Stars: Ron Livingston, Jennifer Aniston, David Herman'
     }, 
     {
         title: "Bill & Ted's Excellent Adventure",
