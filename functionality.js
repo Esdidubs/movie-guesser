@@ -132,7 +132,7 @@ function handleResult(){
                     : `<p>The answer was '${randomAnswer.title}'.</p>`; 
     $("#guess").prop('disabled', true);
     $('#guess').val('');
-    $('.subBtn').html(`<button id="phraseBtn" class="button-18" onclick="share()">Share Score</button>`);
+    $('.subBtn').html(`<button id="shareBtn" class="button-18" onclick="share()">Share</button>`);
     $('#answerBox').html(`${resultText}`);
     $('#scoreList').html(`${getScore()}`);
     $('#countdownHeader').html('Next Game:');
@@ -160,6 +160,12 @@ function getScore(){
 function share(){
     event.preventDefault();
     navigator.clipboard.writeText(`Movie Guesser #${dayNumber}` + '\n' + `${getScore()}` + '\n' + 'https://esdidubs.github.io/movie-guesser');
+    $('#shareBtn').text('Copied!');
+    const copyTimeout = setTimeout(updateShareButton, 3000);
+}
+
+function updateShareButton(){
+    $('#shareBtn').text('Share');
 }
 
 function returningPlayer(){
