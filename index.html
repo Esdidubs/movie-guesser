@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+    <title>Movie Guesser</title>
+</head>
+<body>
+    <header>
+        Movie Guesser
+    </header>
+    <main>
+        <form id="guessingGame">
+            <select name="guess" id="guess" class="dataDrop">
+                <option value="" disabled selected>Select a movie</option> 
+            </select>
+            <div id="answerBox"></div>
+            <div id="scoreList"></div>
+            <div class="subBtn">
+                <button id="phraseBtn" class="button-18" onclick="phraseSub()">Guess</button>
+            </div>
+            <div id="countdownHeader"></div>
+            <div id="countdownDisplay" class="countdown" onload="showTime()"></div>
+            <div id="answerList">
+                <div class="clue" id="clue1"></div>
+                <div class="potential-answer" id="answer1"></div>
+                <div class="clue" id="clue2"></div>
+                <div class="potential-answer" id="answer2"></div>
+                <div class="clue" id="clue3"></div>
+                <div class="potential-answer" id="answer3"></div>
+                <div class="clue" id="clue4"></div>
+                <div class="potential-answer" id="answer4"></div>
+                <div class="clue" id="clue5"></div>
+                <div class="potential-answer" id="answer5"></div>
+                <div class="clue" id="clue6"></div>
+                <div class="potential-answer" id="answer6"></div>
+            </div>
+        </form>
+    </main>
+    <script
+        src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
+    <script src="answerData.js"></script>
+    <script src="functionality.js"></script>
+</body>
+</html>

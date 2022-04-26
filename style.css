@@ -1,0 +1,196 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    background-repeat: no-repeat;
+    margin: 0;
+	padding: 0;
+}
+
+header {
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 36px;
+    letter-spacing: 3px;
+    line-height: 1.1;
+    margin: 0 0 40px 0;
+    padding: 20px 0;
+    text-align: center;
+    text-shadow: .07em .07em 0 rgb(29, 70, 91);
+}
+
+option {
+    background-color:  #0093E9;
+    color: inherit;
+}
+
+option:focus {
+    outline: none;
+}
+
+select {
+    appearance: none;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg)
+        no-repeat right 0.8em center / 1.4em,
+        linear-gradient(to left, rgba(255, 255, 255, 0.3) 3em, rgba(255, 255, 255, 0.2) 3em);
+    border: 0;
+    border-radius: 0.25em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+    color: white;
+    cursor: pointer;
+    font: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    height: 3em;
+    outline: 0;
+    padding: 0 4em 0 1em;
+}
+
+.button-18 {
+align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+cursor: pointer;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+margin-top: 10px;
+margin-bottom: 30px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+width: 180px;
+}
+
+.button-18:hover,
+.button-18:focus { 
+background-color: #16437E;
+color: #ffffff;
+}
+
+.button-18:active {
+background: #09223b;
+color: rgb(255, 255, 255, .7);
+}
+  
+.clue {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.potential-answer {
+    background: rgba(255, 255, 255, 0.3);
+    border: 0;
+    border-radius: 5px;
+    display: none;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.potential-answer.correct-guess {
+    background: rgb(196 251 196);
+}
+
+.potential-answer.incorrect-guess {
+    background: rgb(241 178 178);
+}
+
+.scoreBoxUnanswered,
+.scoreBoxIncorrect,
+.scoreBoxCorrect {
+    border: none;
+    height: 15px;
+    margin: 3px;
+    width: 15px;
+}
+
+.scoreBoxCorrect {
+    background-color: green;
+}
+
+.scoreBoxIncorrect {
+    background-color: red;
+}
+
+.scoreBoxUnanswered {
+    background-color: gray;
+}
+
+#answerBox {
+    font-size: 20px;
+    text-align: center;
+}
+
+#answerBox p {
+    margin-bottom: 10px;
+}
+
+#answerList {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+#guess {
+    width: 400px;
+}
+
+#countdownHeader,
+#countdownDisplay {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#guess::-webkit-calendar-picker-indicator {
+    display: none !important;
+}
+
+#guessingGame{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#scoreList {
+    display: flex;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 420px) {
+	.clue {
+        font-size: 12px;
+    }
+
+    .potential-answer{
+        font-size: 12px;
+    }
+
+    #answerBox,
+    #answerList,
+    #guess {
+        margin: 0 auto;
+        width:90%;
+    }
+}
