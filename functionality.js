@@ -80,6 +80,7 @@ function resetUI(){
     $('.clue').text('');
     $("#guess").prop('disabled', false);
     $('#guess').val('');
+    $('#select2-guess-container').text('Select a movie');
     $('.potential-answer').removeClass('correct-guess');
     $('.potential-answer').removeClass('incorrect-guess');
     $('.potential-answer').text('');
@@ -116,6 +117,7 @@ function handleGuess(guess){
         localStorage.setItem(`movie-guesser-${localGuess}-class`, "incorrect-guess");
         if(guessNumber < maxGuesses){
             $('#guess').val('');
+            $('#select2-guess-container').text('Select a movie')
             guessNumber++;
             localStorage.setItem("movie-guesser-guessNumber", guessNumber);
             showClue();
@@ -133,6 +135,7 @@ function handleResult(){
                     : `<p>The answer was '${randomAnswer.title}'.</p>`; 
     $("#guess").prop('disabled', true);
     $('#guess').val('');
+    $('#select2-guess-container').text('Select a movie');
     $('.subBtn').html(`<button id="shareBtn" class="button-18" onclick="share()">Share</button>`);
     $('#answerBox').html(`${resultText}`);
     $('#scoreList').html(`${getScore()}`);
@@ -160,7 +163,7 @@ function getScore(){
 
 function share(){
     event.preventDefault();
-    navigator.clipboard.writeText(`Movie Guesser #${dayNumber}` + '\n' + `${getScore()}` + '\n' + 'https://esdidubs.github.io/movie-guesser');
+    navigator.clipboard.writeText(`Movie Guesser #${dayNumber}` + '\n' + `🎬${getScore()}` + '\n' + 'https://esdidubs.github.io/movie-guesser');
     $('#shareBtn').text('Copied!');
     const copyTimeout = setTimeout(updateShareButton, 3000);
 }
