@@ -1324,300 +1324,300 @@ let answerData = [
     },
     {
         title: 'Knives Out',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Comedy, Crime, Drama',
+        clue3: 'Director: Rian Johnson',
+        clue4: 'Tagline: Everyone has a motive. No one has a clue.',
+        clue5: 'Characters: Benoit Blanc,  Marta Cabrera, Harlan Thrombey',
+        clue6: 'Stars: Daniel Craig, Chris Evans, Ana de Armas'
     },
     {
         title: 'Midsommar',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Drama, Horror, Mystery',
+        clue3: 'Director: Ari Aster',
+        clue4: 'Tagline: Let the festivities begin',
+        clue5: 'Characters: Dani, Christian, Pelle',
+        clue6: 'Stars: Florence Pugh, Jack Reynor, Vilhelm Blomgren'
     }, 
     {
         title: 'Get Out',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Horror, Mystery, Thriller',
+        clue3: 'Director: Jordan Peele',
+        clue4: "Tagline: Just because you're invited, doesn't mean you're welcome.",
+        clue5: 'Characters: Chris Washington, Rose Armitage, Georgina',
+        clue6: 'Stars: Daniel Kaluuya, Allison Williams, Bradley Whitford'
     }, 
     {
         title: 'Lady Bird',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Greta Gerwig',
+        clue4: 'Tagline: Time to Fly.',
+        clue5: "Characters: Marion McPherson, Lady McPherson, Danny O'Neill",
+        clue6: 'Stars: Saoirse Ronan, Laurie Metcalf, Tracy Letts'
     },
     {
         title: 'Baby Driver',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Action, Crime, Drama',
+        clue3: 'Director: Edgar Wright',
+        clue4: 'Tagline: All you need is one killer track.',
+        clue5: 'Characters: Griff, Darling, Baby',
+        clue6: 'Stars: Ansel Elgort, Jon Bernthal, Jon Hamm'
     }, 
     {
         title: 'Black Panther',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Action, Adventure, Sci-Fi',
+        clue3: 'Director: Ryan Coogler',
+        clue4: 'Tagline: Long live the king.',
+        clue5: "Characters: T'Challa, Erik Killmonger, Nakia",
+        clue6: "Stars: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o"
     }, 
     {
         title: 'Jojo Rabbit',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Comedy, Drama, War',
+        clue3: 'Director: Taika Waititi',
+        clue4: 'Tagline: An anti-hate satire.',
+        clue5: 'Characters: Elsa, Adolf, Captain Klenzendorf',
+        clue6: 'Stars: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson'
     }, 
     {
         title: 'Her',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2013',
+        clue2: 'Genre: Drama, Romance, Sci-Fi',
+        clue3: 'Director: Spike Jonze',
+        clue4: "Tagline: She's not just a computer.",
+        clue5: 'Characters: Theodore, Amy, Samantha',
+        clue6: 'Stars: Joaquin Phoenix, Amy Adams, Scarlett Johansson'
     }, 
     {
         title: 'The Social Network',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2010',
+        clue2: 'Genre: Biography, Drama',
+        clue3: 'Director: David Fincher',
+        clue4: "Tagline: You don't get to 500 million friends without making a few enemies",
+        clue5: 'Characters: Mark Zuckerberg, Eduardo Saverin, Sean Parker',
+        clue6: 'Stars: Jesse Eisenberg, Andrew Garfield, Justin Timberlake'
     }, 
     {
         title: 'Arrival',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Drama, Sci-Fi',
+        clue3: 'Director: Denis Villeneuve',
+        clue4: 'Tagline: Why are they here?',
+        clue5: 'Characters: Louise Banks, Ian Donnelly, Colonel Weber',
+        clue6: 'Stars: Amy Adams, Jeremy Renner, Forest Whitaker'
     }, 
     {
         title: 'The Lighthouse',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Drama, Fantasy, History',
+        clue3: 'Director: Robert Eggers',
+        clue4: 'Tagline: There is enchantment in the light.',
+        clue5: 'Characters: Thomas Howard, Thomas Wake, Mermaid',
+        clue6: 'Stars: Robert Pattinson, Willem Dafoe, Valeriia Karaman'
     }, 
     {
         title: 'American Psycho',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2000',
+        clue2: 'Genre: Crime, Drama, Horror',
+        clue3: 'Director: Mary Harron',
+        clue4: 'Tagline: No Introduction Necessary.',
+        clue5: 'Characters: Patrick Bateman, Timothy Bryce, Craig McDermott',
+        clue6: 'Stars: Christian Bale, Justin Theroux, Josh Lucas'
     }, 
     {
         title: 'Scott Pilgrim vs. the World',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2010',
+        clue2: 'Genre: Action, Comedy, Fantasy',
+        clue3: 'Director: Edgar Wright',
+        clue4: 'Tagline: An epic comeback of epic epicness.',
+        clue5: 'Characters: Ramona Flowers, Wallace Wells, Knives Chau',
+        clue6: 'Stars: Michael Cera, Mary Elizabeth Winstead, Kieran Culkin'
     }, 
     {
         title: 'Uncut Gems',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Crime, Drama, Thriller',
+        clue3: 'Director: Benny Safdie, Josh Safdie',
+        clue4: 'Tagline: This is me! This is how *I* win.',
+        clue5: 'Characters: Howard Ratner, Julia De Fiore, Julia De Fiore',
+        clue6: 'Stars: Adam Sandler, Julia Fox, Idina Menzel'
     }, 
     {
         title: 'Hereditary',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Drama, Horror, Mystery',
+        clue3: 'Director: Ari Aster',
+        clue4: 'Tagline: Every family tree hides a secret.',
+        clue5: 'Characters: Annie, Charlie, Steve',
+        clue6: 'Stars: Toni Collette, Milly Shapiro, Gabriel Byrne'
     }, 
     {
         title: 'Thor: Ragnarok',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Action, Adventure, Comedy',
+        clue3: 'Director: Taika Waititi',
+        clue4: 'Tagline: No Hammer. No Problem.',
+        clue5: 'Characters: Thor, Loki, Bruce Banner',
+        clue6: 'Stars: Chris Hemsworth, Tom Hiddleston, Cate Blanchett'
     }, 
     {
         title: 'Soul',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2020',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Pete Docter, Kemp Powers',
+        clue4: 'Tagline: Everybody has a soul. Joe Gardner is about to find his.',
+        clue5: 'Characters: Joe, 22, Moonwind',
+        clue6: 'Stars: Jamie Foxx, Tina Fey, Graham Norton'
     }, 
     {
         title: 'Black Swan',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2010',
+        clue2: 'Genre: Drama, Thriller',
+        clue3: 'Director: Darren Aronofsky',
+        clue4: 'Tagline: I just want to be perfect.',
+        clue5: 'Characters: Nina Sayers, Lily, Thomas Leroy',
+        clue6: 'Stars: Natalie Portman, Mila Kunis, Vincent Cassel'
     }, 
     {
         title: 'Moonlight',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Drama',
+        clue3: 'Director: Barry Jenkins',
+        clue4: 'Tagline: This is the story of a lifetime.',
+        clue5: 'Characters: Juan, Paula, Black',
+        clue6: 'Stars: Mahershala Ali, Naomie Harris, Trevante Rhodes'
     }, 
     {
         title: 'Dunkirk',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Action, Drama, History',
+        clue3: 'Director: Christopher Nolan',
+        clue4: 'Tagline: At the point of crisis, at the point of annihilation, survival is victory.',
+        clue5: 'Characters: Tommy, George, Mr. Dawson',
+        clue6: 'Stars: Fionn Whitehead, Barry Keoghan, Mark Rylance'
     }, 
     {
         title: 'Marriage Story',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Drama, Romance',
+        clue3: 'Director: Noah Baumbach',
+        clue4: "Tagline: Where there's a love, there's a way.",
+        clue5: 'Characters: Charlie Barber, Nicole Barber, Street Solicitor #1',
+        clue6: 'Stars: Adam Driver, Scarlett Johansson, Julia Greer'
     }, 
     {
         title: 'Us',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Horror, Mystery, Thriller',
+        clue3: 'Director: Jordan Peele',
+        clue4: 'Tagline: We Are Our Own Worst Enemy.',
+        clue5: 'Characters: Adelaine Wilson, Gabe Wilson, Kitty Tyler',
+        clue6: "Stars: Lupita Nyong'o, Winston Duke, Elisabeth Moss"
     }, 
     {
         title: 'Deadpool',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Action, Adventure, Comedy',
+        clue3: 'Director: Tim Miller',
+        clue4: 'Tagline: With great power comes great irresponsibility.',
+        clue5: 'Characters: Wade, Vanessa, Weasel',
+        clue6: 'Stars: Ryan Reynolds, Morena Baccarin, T.J. Miller'
     }, 
     {
         title: 'A Quiet Place',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Drama, Horror, Sci-Fi',
+        clue3: 'Director: John Krasinski',
+        clue4: 'Tagline: If they hear you, they hunt you.',
+        clue5: 'Characters: Evelyn Abbott, Lee Abbott, Regan Abbott',
+        clue6: 'Stars: Emily Blunt, John Krasinski, Millicent Simmonds'
     }, 
     {
         title: 'Tenet',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2020',
+        clue2: 'Genre: Action, Sci-Fi, Thriller',
+        clue3: 'Director: Christopher Nolan',
+        clue4: 'Tagline: Time Runs Out',
+        clue5: 'Characters: Protagonist, Neil, Kat',
+        clue6: 'Stars: John David Washington, Robert Pattinson, Elizabeth Debicki'
     },
     {
         title: 'Guardians of the Galaxy',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Action, Adventure, Comedy',
+        clue3: 'Director: James Gunn',
+        clue4: 'Tagline: All heroes start somewhere.',
+        clue5: 'Characters: Peter Quill, Groot, Rocket',
+        clue6: 'Stars: Chris Pratt, Vin Diesel, Bradley Cooper'
     }, 
     {
         title: 'It',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Horror',
+        clue3: 'Director: Andy Muschietti',
+        clue4: "Tagline: You'll float too.",
+        clue5: 'Characters: Pennywise, Bill Denbrough, Richie Tozier',
+        clue6: 'Stars: Bill Skarsgård, Jaeden Martell, Finn Wolfhard'
     }, 
     {
         title: 'Iron Man',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2008',
+        clue2: 'Genre: Action, Adventure, Sci-Fi',
+        clue3: 'Director: Jon Favreau',
+        clue4: "Tagline: Heroes aren't born. They're built.",
+        clue5: 'Characters: Tony Stark, Pepper Potts, Rhodey',
+        clue6: 'Stars: Robert Downey Jr., Gwyneth Paltrow, Terrence Howard'
     }, 
     {
         title: 'Donnie Darko',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2001',
+        clue2: 'Genre: Drama, Mystery, Sci-Fi',
+        clue3: 'Director: Richard Kelly',
+        clue4: 'Tagline: Life is one long insane trip. Some people just have better directions.',
+        clue5: 'Characters: Gretchen Ross, Rose, Eddie',
+        clue6: 'Stars: Jake Gyllenhaal, Jena Malone, Mary McDonnell'
     }, 
     {
         title: "Harry Potter and the Sorcerer's Stone",
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2001',
+        clue2: 'Genre: Adventure, Family, Fantasy',
+        clue3: 'Director: Chris Columbus',
+        clue4: 'Tagline: Let the Magic Begin',
+        clue5: 'Characters: Ron Weasley, Albus Dumbledore, Hermione Granger',
+        clue6: 'Stars: Daniel Radcliffe, Rupert Grint, Emma Watson'
     }, 
     {
         title: 'The Perks of Being a Wallflower',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2012',
+        clue2: 'Genre: Drama, Romance',
+        clue3: 'Director: Stephen Chbosky',
+        clue4: 'Tagline: We accept the love we think we deserve.',
+        clue5: 'Characters: Charlie, Sam, Patrick',
+        clue6: 'Stars: Logan Lerman, Emma Watson, Ezra Miller'
     }, 
     {
         title: 'Fantastic Mr. Fox',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Wes Anderson',
+        clue4: 'Tagline: Dig the life fantastic.',
+        clue5: 'Characters: Badger, Ash, Kylie',
+        clue6: 'Stars: George Clooney, Meryl Streep, Bill Murray'
     }, 
     {
         title: 'The Shape of Water',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Drama, Fantasy, Romance',
+        clue3: 'Director: Guillermo del Toro',
+        clue4: 'Tagline: Experience a connection beyond words.',
+        clue5: 'Characters: Elisa Esposito, Zelda Fuller, Richard Strickland',
+        clue6: 'Stars: Sally Hawkins, Octavia Spencer, Michael Shannon'
     }, 
     {
         title: 'Ex Machina',
