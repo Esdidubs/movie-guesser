@@ -138,6 +138,11 @@ color: rgb(255, 255, 255, .7);
     background-color: gray;
 }
 
+.select2-container.select2-container--default .select2-results>.select2-results__options {
+    max-height: 190px;
+    overflow-y: hidden;
+}
+
 #answerBox {
     font-size: 20px;
     text-align: center;

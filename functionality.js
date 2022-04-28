@@ -68,7 +68,7 @@ function dropdownOptions(){
         option.value = answerArr[item].title;
         x.add(option);
     }
-    $('#guess').select2();
+    $('#guess').select2({minimumInputLength: 1});
 }
 
 function resetUI(){
@@ -163,7 +163,10 @@ function getScore(){
 
 function share(){
     event.preventDefault();
-    navigator.clipboard.writeText(`Movie Guesser #${dayNumber}` + '\n' + `🎬${getScore()}` + '\n' + 'https://esdidubs.github.io/movie-guesser');
+    const d = new Date();
+    const month = d.getMonth()+1;
+    const day = d.getDate();
+    navigator.clipboard.writeText(`Movie Guesser - ${month}/${day}` + '\n' + `🎬${getScore()}` + '\n' + '\n' + 'https://esdidubs.github.io/movie-guesser');
     $('#shareBtn').text('Copied!');
     const copyTimeout = setTimeout(updateShareButton, 3000);
 }
