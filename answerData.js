@@ -1621,129 +1621,129 @@ let answerData = [
     }, 
     {
         title: 'Ex Machina',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Drama, Sci-Fi, Thriller',
+        clue3: 'Director: Alex Garland',
+        clue4: 'Tagline: To erase the line between man and machine is to obscure the line between men and gods',
+        clue5: 'Characters: Ava, Caleb, Kyoko',
+        clue6: 'Stars: Alicia Vikander, Domhnall Gleeson, Oscar Isaac'
     }, 
     {
         title: 'Birdman',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Alejandro G. Iñárritu',
+        clue4: "Tagline: You're Anything But Invisible",
+        clue5: 'Characters: Riggan, Jake, Mike',
+        clue6: 'Stars: Michael Keaton, Zach Galifianakis, Edward Norton'
     },
     {
         title: 'Titanic',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1997',
+        clue2: 'Genre: Drama, Romance',
+        clue3: 'Director: James Cameron',
+        clue4: 'Tagline: Collide With Destiny.',
+        clue5: 'Characters: Jack Dawson, Rose Dewitt Bukater, Cal Hockley',
+        clue6: 'Stars: Leonardo DiCaprio, Kate Winslet, Billy Zane'
     }, 
     {
         title: 'BlacKkKlansman',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Biography, Comedy, Crime',
+        clue3: 'Director: Spike Lee',
+        clue4: 'Tagline: Infiltrate hate.',
+        clue5: 'Characters: Ron Stallworth, Flip Zimmerman, David Duke',
+        clue6: 'Stars: John David Washington, Adam Driver, Laura Harrier'
     }, 
     {
         title: 'The Breakfast Club',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1985',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: John Hughes',
+        clue4: 'Tagline: Five strangers with nothing in common, except each other.',
+        clue5: 'Characters: Andrew Clark, John Bender, Claire Standish',
+        clue6: 'Stars: Emilio Estevez, Judd Nelson, Molly Ringwald'
     }, 
     {
         title: 'Sixteen Candles',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1984',
+        clue2: 'Genre: Comedy, Romance',
+        clue3: 'Director: John Hughes',
+        clue4: 'Tagline: This is Samantha Baker and today is her 16th birthday. The problem is, nobody remembers.',
+        clue5: 'Characters: Samantha, Geek, Jake',
+        clue6: 'Stars: Molly Ringwald, Anthony Michael Hall, Justin Henry'
     }, 
     {
         title: 'Weird Science',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1985',
+        clue2: 'Genre: Comedy, Romance, Sci-Fi',
+        clue3: 'Director: John Hughes',
+        clue4: "Tagline: If you can't get a date, make one!",
+        clue5: 'Characters: Gary Wallace, Wyatt Donnelly, Lisa',
+        clue6: 'Stars: Anthony Michael Hall, Ilan Mitchell-Smith, Kelly LeBrock'
     }, 
     {
         title: 'Booksmart',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Comedy',
+        clue3: 'Director: Olivia Wilde',
+        clue4: "Tagline: Getting Straight A's. Giving Zero F's.",
+        clue5: 'Characters: Amy, Molly, Miss Fine',
+        clue6: 'Stars: Kaitlyn Dever, Beanie Feldstein, Jessica Williams'
     }, 
     {
         title: 'The Martian',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2015',
+        clue2: 'Genre: Adventure, Drama, Sci-Fi',
+        clue3: 'Director: Ridley Scott',
+        clue4: 'Tagline: Bring him home',
+        clue5: 'Characters: Mark Watney, Melissa Lewis, Annie Montrose',
+        clue6: 'Stars: Matt Damon, Jessica Chastain, Kristen Wiig'
     }, 
     {
         title: 'Encanto',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2021',
+        clue2: 'Genre: Animation, Comedy, Family',
+        clue3: 'Director: Jared Bush, Byron Howard, Charise Castro Smith',
+        clue4: 'Tagline: Magical House. Magical Family.',
+        clue5: 'Characters: Mirabel, Abuela Alma, Bruno',
+        clue6: 'Stars: Stephanie Beatriz, María Cecilia Botero, John Leguizamo'
     }, 
     {
         title: 'The Witch',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2015',
+        clue2: 'Genre: Drama, Fantasy, History',
+        clue3: 'Director: Robert Eggers',
+        clue4: 'Tagline: A New-England Folktale.',
+        clue5: 'Characters: Thomasin, William, Katherine',
+        clue6: 'Stars: Anya Taylor-Joy, Ralph Ineson, Kate Dickie'
     }, 
     {
         title: 'Lost in Translation',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2003',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Sofia Coppola',
+        clue4: 'Tagline: Sometimes you have to go halfway around the world to come full circle',
+        clue5: 'Characters: Bob Harris, Charlotte, John',
+        clue6: 'Stars: Bill Murray, Scarlett Johansson, Giovanni Ribisi'
     }, 
     {
         title: 'Moonrise Kingdom',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2012',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Wes Anderson',
+        clue4: 'Tagline: A tormenting and surprising story of children and adults during the stormy days of the summer of 1965.',
+        clue5: 'Characters: Sam, Suzy, Scout Master Ward',
+        clue6: 'Stars: Jared Gilman, Kara Hayward, Bruce Willis'
     }, 
     {
         title: 'The Revenant',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2015',
+        clue2: 'Genre: Action, Adventure, Drama',
+        clue3: 'Director: Alejandro G. Iñárritu',
+        clue4: 'Tagline: (n. One who has returned, as if from the dead.)',
+        clue5: 'Characters: Hugh Glass, John Fitzgerald, Bridger',
+        clue6: 'Stars: Leonardo DiCaprio, Tom Hardy, Will Poulter'
     }, 
     {
         title: 'Little Miss Sunshine',
@@ -1756,75 +1756,75 @@ let answerData = [
     }, 
     {
         title: 'Coming to America',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1988',
+        clue2: 'Genre: Comedy, Romance',
+        clue3: 'Director: John Landis',
+        clue4: 'Tagline: This summer, Prince Akeem discovers America.',
+        clue5: 'Characters: Prince Akeem, Semmi, Cleo McDowell',
+        clue6: 'Stars: Eddie Murphy, Arsenio Hall, John Amos'
     }, 
     {
         title: 'Bad Boys',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1995',
+        clue2: 'Genre: Action, Comedy, Crime',
+        clue3: 'Director: Michael Bay',
+        clue4: 'Tagline: Whatcha gonna do?',
+        clue5: 'Characters: Mike Lowrey, Marcus Burnett, Eddie Dominguez',
+        clue6: 'Stars: Will Smith, Martin Lawrence, Lisa Boyle'
     }, 
     {
         title: '10 Things I Hate About You',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1999',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Gil Junger',
+        clue4: 'Tagline: How do I loathe thee? Let me count the ways.',
+        clue5: 'Characters: Patrick Verona, Kat Stratford, Cameron James',
+        clue6: 'Stars: Heath Ledger, Julia Stiles, Joseph Gordon-Levitt'
     }, 
     {
         title: 'John Wick',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Action, Crime, Thriller',
+        clue3: 'Director: Chad Stahelski, David Leitch',
+        clue4: 'Tagline: Revenge is all he has left.',
+        clue5: 'Characters: Viggo Tarasov, Iosef Tarasov, John',
+        clue6: 'Stars: Keanu Reeves, Michael Nyqvist, Alfie Allen'
     }, 
     {
         title: 'The Irishman',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Biography, Crime, Drama',
+        clue3: 'Director: Martin Scorsese',
+        clue4: 'Tagline: His story changed history.',
+        clue5: 'Characters: Frank Sheeran, Jimmy Hoffa, Russell Bufalino',
+        clue6: 'Stars: Robert De Niro, Al Pacino, Joe Pesci'
     }, 
     {
         title: 'The Lobster',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2015',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Yorgos Lanthimos',
+        clue4: 'Tagline: An unconventional love story by Yorgos Lanthimos.',
+        clue5: 'Characters: David, Short Sighted Woman, Nosebleed Woman',
+        clue6: 'Stars: Colin Farrell, Rachel Weisz, Jessica Barden'
     }, 
     {
         title: 'Luca',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2021',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Enrico Casarosa',
+        clue4: 'Tagline: Silenzio Bruno.',
+        clue5: 'Characters: Alberto Scorfano, Giulia Marcovaldo, Ercole Visconti',
+        clue6: 'Stars: Jacob Tremblay, Jack Dylan Grazer, Emma Berman'
     }, 
     {
         title: 'Mulholland Drive',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2001',
+        clue2: 'Genre: Drama, Mystery, Thriller',
+        clue3: 'Director: David Lynch',
+        clue4: 'Tagline: Beware what you dream for...',
+        clue5: 'Characters: Betty, Rita, Adam',
+        clue6: 'Stars: Naomi Watts, Laura Harring, Justin Theroux'
     },
     {
         title: 'The Hunger Games',
