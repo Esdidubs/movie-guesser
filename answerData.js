@@ -1828,156 +1828,156 @@ let answerData = [
     },
     {
         title: 'The Hunger Games',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2012',
+        clue2: 'Genre: Action, Adventure, Sci-Fi',
+        clue3: 'Director: Gary Ross',
+        clue4: 'Tagline: May the Odds be Ever in your Favor',
+        clue5: 'Characters: Katniss Everdeen, Peeta Mellark, Gale Hawthorne',
+        clue6: 'Stars: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth'
     },
     {
         title: 'Shrek',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2001',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Andrew Adamson, Vicky Jenson',
+        clue4: 'Tagline: The greatest fairy tale never told.',
+        clue5: 'Characters: Donkey, Princess Fiona, Lord Farquaad',
+        clue6: 'Stars: Mike Myers, Eddie Murphy, Cameron Diaz'
     }, 
     {
         title: 'Austin Powers: International Man of Mystery',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1997',
+        clue2: 'Genre: Adventure, Comedy',
+        clue3: 'Director: Jay Roach',
+        clue4: "Tagline: If he were any cooler, he'd still be frozen, baby!",
+        clue5: 'Characters: Vanessa Kensington, Basil Exposition, Number Two',
+        clue6: 'Stars: Mike Myers, Elizabeth Hurley, Michael York'
     }, 
     {
         title: 'Avatar',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Action, Adventure, Fantasy',
+        clue3: 'Director: James Cameron',
+        clue4: 'Tagline: Enter the World',
+        clue5: 'Characters: Jake Sully, Neytiri, Dr. Grace Augustine',
+        clue6: 'Stars: Sam Worthington, Zoe Saldana, Sigourney Weaver'
     }, 
     {
         title: 'Wonder Woman',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2017',
+        clue2: 'Genre: Action, Adventure, Fantasy',
+        clue3: 'Director: Patty Jenkins',
+        clue4: 'Tagline: Power. Grace. Wisdom. Wonder.',
+        clue5: 'Characters: Diana, Steve Trevor, Antiope',
+        clue6: 'Stars: Gal Gadot, Chris Pine, Robin Wright'
     }, 
     {
         title: 'Split',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Horror, Thriller',
+        clue3: 'Director: M. Night Shyamalan',
+        clue4: 'Tagline: Kevin has 23 distinct personalities. The 24th is about to be unleashed.',
+        clue5: 'Characters: Dennis, Casey Cooke, Claire Benoit',
+        clue6: 'Stars: James McAvoy, Anya Taylor-Joy, Haley Lu Richardson'
     }, 
     {
         title: '500 Days of Summer',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Marc Webb',
+        clue4: "Tagline: Boy meets girl. Boy falls in love. Girl doesn't.",
+        clue5: 'Characters: Tom, Summer, McKenzie',
+        clue6: 'Stars: Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend'
     }, 
     {
         title: 'Scream',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1996',
+        clue2: 'Genre: Horror, Mystery',
+        clue3: 'Director: Wes Craven',
+        clue4: "Tagline: Don't Answer The Phone. Don't Open The Door. Don't Try To Escape.",
+        clue5: 'Characters: Sidney, Gale Weathers, Deputy Dewey',
+        clue6: 'Stars: Neve Campbell, Courteney Cox, David Arquette'
     }, 
     {
         title: 'Home Alone',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1990',
+        clue2: 'Genre: Comedy, Family',
+        clue3: 'Director: Chris Columbus',
+        clue4: 'Tagline: A family comedy without the family.',
+        clue5: 'Characters: Kevin, Harry, Marv',
+        clue6: 'Stars: Macaulay Culkin, Joe Pesci, Daniel Stern'
     }, 
     {
         title: 'Superbad',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2007',
+        clue2: 'Genre: Comedy',
+        clue3: 'Director: Greg Mottola',
+        clue4: 'Tagline: Come and Get Some',
+        clue5: 'Characters: Evan, Jules, Fogell',
+        clue6: 'Stars: Michael Cera, Jonah Hill, Christopher Mintz-Plasse'
     }, 
     {
         title: "Ferris Bueller's Day Off",
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1986',
+        clue2: 'Genre: Comedy',
+        clue3: 'Director: John Hughes',
+        clue4: "Tagline: One Man's Struggle To Take It Easy",
+        clue5: 'Characters: Cameron Frye, Sloane Peterson, Ed Rooney',
+        clue6: 'Stars: Matthew Broderick, Alan Ruck, Mia Sara'
     }, 
     {
         title: 'Isle of Dogs',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Wes Anderson',
+        clue4: "Tagline: Don't ask me to fetch that stick.",
+        clue5: 'Characters: Chief, Atari, Rex',
+        clue6: 'Stars: Bryan Cranston, Koyu Rankin, Edward Norton'
     }, 
     {
         title: 'Zootopia',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Byron Howard, Rich Moore, Jared Bush',
+        clue4: 'Tagline: Welcome to the urban jungle.',
+        clue5: 'Characters: Judy Hopps, Nick Wilde, Chief Bogo',
+        clue6: 'Stars: Ginnifer Goodwin, Jason Bateman, Idris Elba'
     }, 
     {
         title: 'Shaun of the Dead',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2004',
+        clue2: 'Genre: Comedy, Horror',
+        clue3: 'Director: Edgar Wright',
+        clue4: 'Tagline: Buy Milk. Ring Mum. Dodge Zombies',
+        clue5: 'Characters: Ed, Liz, Dianne',
+        clue6: 'Stars: Simon Pegg, Nick Frost, Kate Ashfield'
     }, 
     {
         title: 'Hot Fuzz',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2007',
+        clue2: 'Genre: Action, Comedy, Mystery',
+        clue3: 'Director: Edgar Wright',
+        clue4: 'Tagline: When the heat is on, you gotta call the fuzz.',
+        clue5: 'Characters: Nicholas Angel, PC Danny Butterman, Met Sergeant',
+        clue6: 'Stars: Simon Pegg, Nick Frost, Martin Freeman'
     }, 
     {
         title: 'Juno',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2007',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Jason Reitman',
+        clue4: 'Tagline: A comedy about growing up... and the bumps along the way.',
+        clue5: 'Characters: Paulie Bleeker, Vanessa Loring, Mark Loring',
+        clue6: 'Stars: Michael Cera, Elliot Page, Jennifer Garner'
     }, 
     {
         title: 'Coraline',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Animation, Drama, Family',
+        clue3: 'Director: Henry Selick',
+        clue4: "Tagline: The braver you are, the more you'll see",
+        clue5: 'Characters: Mel Jones, Charlie Jones, Miss April Spink',
+        clue6: 'Stars: Dakota Fanning, Teri Hatcher, John Hodgman'
     }, 
     {
         title: 'Minari',
