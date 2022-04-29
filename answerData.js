@@ -1981,309 +1981,309 @@ let answerData = [
     }, 
     {
         title: 'Minari',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2020',
+        clue2: 'Genre: Drama',
+        clue3: 'Director: Lee Isaac Chung',
+        clue4: 'Tagline: A timeless story of what roots us.',
+        clue5: 'Characters: Jacob, Monica, David',
+        clue6: 'Stars: Steven Yeun, Yeri Han, Alan S. Kim'
     }, 
     {
         title: 'Palm Springs',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2020',
+        clue2: 'Genre: Comedy, Fantasy, Mystery',
+        clue3: 'Director: Max Barbakow',
+        clue4: "Tagline: Live Like There's No Tomorrow",
+        clue5: 'Characters: Nyles, Sarah, Roy',
+        clue6: 'Stars: Andy Samberg, Cristin Milioti, J.K. Simmons'
     }, 
     {
         title: 'Edward Scissorhands',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1990',
+        clue2: 'Genre: Drama, Fantasy, Romance',
+        clue3: 'Director: Tim Burton',
+        clue4: "Tagline: His story will touch you, even though he can't.",
+        clue5: 'Characters: Kim, Peg, Edward',
+        clue6: 'Stars: Johnny Depp, Winona Ryder, Dianne Wiest'
     }, 
     {
         title: 'Moana',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2016',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Ron Clements, John Musker, Don Hall',
+        clue4: 'Tagline: The ocean is calling.',
+        clue5: 'Characters: Maui, Gramma Tala, Chief Tui',
+        clue6: "Stars: Auli'i Cravalho, Dwayne Johnson, Rachel House"
     }, 
     {
         title: 'The Nightmare Before Christmas',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1993',
+        clue2: 'Genre: Animation, Family, Fantasy',
+        clue3: 'Director: Tim Burton',
+        clue4: 'Tagline: A ghoulish tale with wicked humour & stunning animation.',
+        clue5: 'Characters: Jack Skellington, Sally, Evil Scientist',
+        clue6: "Stars: Danny Elfman, Chris Sarandon, Catherine O'Hara"
     }, 
     {
         title: 'Halloween',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1978',
+        clue2: 'Genre: Horror, Thriller',
+        clue3: 'Director: John Carpenter',
+        clue4: 'Tagline: The trick was to stay alive.',
+        clue5: 'Characters: Loomis, Laurie, Michael Myers',
+        clue6: 'Stars: Donald Pleasence, Jamie Lee Curtis, Tony Moran'
     }, 
     {
         title: 'Gravity',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2013',
+        clue2: 'Genre: Action, Drama, Sci-Fi',
+        clue3: 'Director: Alfonso Cuarón',
+        clue4: "Tagline: Don't Let Go",
+        clue5: 'Characters: Ryan Stone, Matt Kowalski, Mission Control',
+        clue6: 'Stars: Sandra Bullock, George Clooney, Ed Harris'
     }, 
     {
         title: 'Brokeback Mountain',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2005',
+        clue2: 'Genre: Drama, Romance',
+        clue3: 'Director: Ang Lee',
+        clue4: 'Tagline: Love Is A Force Of Nature',
+        clue5: 'Characters: Jack Twist, Ennis Del Mar, Alma',
+        clue6: 'Stars: Jake Gyllenhaal, Heath Ledger, Michelle Williams'
     }, 
     {
         title: 'Cruella',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2021',
+        clue2: 'Genre: Adventure, Comedy, Crime',
+        clue3: 'Director: Craig Gillespie',
+        clue4: 'Tagline: Hello cruel world.',
+        clue5: 'Characters: Estella, The Baroness, Jasper',
+        clue6: 'Stars: Emma Stone, Emma Thompson, Joel Fry'
     }, 
     {
         title: 'The Royal Tenenbaums',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2001',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Wes Anderson',
+        clue4: "Tagline: Family Isn't A Word... It's A Sentence.",
+        clue5: 'Characters: Margot Tenenbaum, Etheline Tenenbaum, Chas Tenenbaum',
+        clue6: 'Stars: Gene Hackman, Gwyneth Paltrow, Anjelica Huston'
     }, 
     {
         title: 'Clueless',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1995',
+        clue2: 'Genre: Comedy, Romance',
+        clue3: 'Director: Amy Heckerling',
+        clue4: 'Tagline: Sex. Clothes. Popularity. Whatever.',
+        clue5: 'Characters: Cher, Dionne, Tai',
+        clue6: 'Stars: Alicia Silverstone, Stacey Dash, Brittany Murphy'
     }, 
     {
         title: 'E.T.',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1982',
+        clue2: 'Genre: Adventure, Family, Sci-Fi',
+        clue3: 'Director: Steven Spielberg',
+        clue4: 'Tagline: He is afraid. He is totally alone. He is 3 million light years from home.',
+        clue5: 'Characters: Elliott, Gertie, Keys',
+        clue6: 'Stars: Henry Thomas, Drew Barrymore, Peter Coyote'
     }, 
     {
         title: 'Eyes Wide Shut',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1999',
+        clue2: 'Genre: Drama, Mystery, Thriller',
+        clue3: 'Director: Stanley Kubrick',
+        clue4: 'Tagline: No dream is ever just a dream.',
+        clue5: 'Characters: Dr. William Harford, Alice Harford, Nick Nightingale',
+        clue6: 'Stars: Tom Cruise, Nicole Kidman, Todd Field'
     }, 
     {
         title: 'Frozen',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2013',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Chris Buck, Jennifer Lee',
+        clue4: 'Tagline: Do you want to build a snowman?',
+        clue5: 'Characters: Anna, Elsa, Olaf',
+        clue6: 'Stars: Kristen Bell, Idina Menzel, Jonathan Groff'
     }, 
     {
         title: 'The Devil Wears Prada',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2006',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: David Frankel',
+        clue4: 'Tagline: Hell on Heels',
+        clue5: 'Characters: Andy Sachs, Miranda Priestly, Nate',
+        clue6: 'Stars: Anne Hathaway, Meryl Streep, Adrian Grenier'
     },
     {
         title: 'The Big Short',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2015',
+        clue2: 'Genre: Biography, Comedy, Drama',
+        clue3: 'Director: Adam McKay',
+        clue4: 'Tagline: Meet the men who saw the end',
+        clue5: 'Characters: Michael Burry, Mark Baum, Jared Vennett',
+        clue6: 'Stars: Christian Bale, Steve Carell, Ryan Gosling'
     }, 
     {
         title: 'Zombieland',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Action, Comedy, Horror',
+        clue3: 'Director: Ruben Fleischer',
+        clue4: 'Tagline: This place is so dead',
+        clue5: 'Characters: Columbus, Wichita, Tallahassee',
+        clue6: 'Stars: Jesse Eisenberg, Emma Stone, Woody Harrelson'
     }, 
     {
         title: 'Free Guy',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2021',
+        clue2: 'Genre: Action, Adventure, Comedy',
+        clue3: 'Director: Shawn Levy',
+        clue4: 'Tagline: The world needed a hero. They got a guy.',
+        clue5: 'Characters: Guy, Millie, Antwan',
+        clue6: 'Stars: Ryan Reynolds, Jodie Comer, Taika Waititi'
     }, 
     {
         title: 'Twilight',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2008',
+        clue2: 'Genre: Drama, Fantasy, Romance',
+        clue3: 'Director: Catherine Hardwicke',
+        clue4: 'Tagline: When you can live forever what do you live for?',
+        clue5: 'Characters: Bella Swan, Edward Cullen, Jacob Black',
+        clue6: 'Stars: Kristen Stewart, Robert Pattinson, Billy Burke'
     }, 
     {
         title: 'Sorry to Bother You',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2018',
+        clue2: 'Genre: Comedy, Drama, Fantasy',
+        clue3: 'Director: Boots Riley',
+        clue4: 'Tagline: Use your white voice.',
+        clue5: 'Characters: Cassius Green, Detroit, Mr. _______',
+        clue6: 'Stars: LaKeith Stanfield, Tessa Thompson, Jermaine Fowler'
     }, 
     {
         title: 'School of Rock',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2003',
+        clue2: 'Genre: Comedy, Music',
+        clue3: 'Director: Richard Linklater',
+        clue4: 'Tagline: Old school rock meets private school prep.',
+        clue5: 'Characters: Dewey Finn, Ned Schneebly, Rosalie Mullins',
+        clue6: 'Stars: Jack Black, Mike White, Joan Cusack'
     }, 
     {
         title: 'It Follows',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Horror, Mystery, Thriller',
+        clue3: 'Director: David Robert Mitchell',
+        clue4: "Tagline: It doesn't think. It doesn't feel. It doesn't give up.",
+        clue5: 'Characters: Jay Height, Paul, Yara',
+        clue6: 'Stars: Maika Monroe, Keir Gilchrist, Olivia Luccardi'
     }, 
     {
         title: 'Midnight in Paris',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2011',
+        clue2: 'Genre: Comedy, Fantasy, Romance',
+        clue3: 'Director: Woody Allen',
+        clue4: "Tagline: The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence.",
+        clue5: 'Characters: Gil, Inez, Ernest Hemingway',
+        clue6: 'Stars: Owen Wilson, Rachel McAdams, Kathy Bates'
     }, 
     {
         title: 'Beetlejuice',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1988',
+        clue2: 'Genre: Comedy, Fantasy',
+        clue3: 'Director: Tim Burton',
+        clue4: 'Tagline: Say it once... Say it twice... But we dare you to say it THREE TIMES',
+        clue5: 'Characters: Adam, Barbara, Betelgeuse',
+        clue6: 'Stars: Alec Baldwin, Geena Davis, Michael Keaton'
     }, 
     {
         title: 'Punch-Drunk Love',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2002',
+        clue2: 'Genre: Comedy, Drama, Romance',
+        clue3: 'Director: Paul Thomas Anderson',
+        clue4: 'Tagline: You can go to places in the world with pudding.',
+        clue5: 'Characters: Barry Egan, Lena Leonard, Dean Trumbell',
+        clue6: 'Stars: Adam Sandler, Emily Watson, Philip Seymour Hoffman'
     }, 
     {
         title: 'The Lego Movie',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2014',
+        clue2: 'Genre: Animation, Action, Adventure',
+        clue3: 'Director: Christopher Miller, Phil Lord',
+        clue4: 'Tagline: The story of a nobody who saved everybody',
+        clue5: 'Characters: Emmet Brickowski, Lord Business, Wyldstyle',
+        clue6: 'Stars: Chris Pratt, Will Ferrell, Elizabeth Banks'
     }, 
     {
         title: 'Ghostbusters',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1984',
+        clue2: 'Genre: Action, Comedy, Fantasy',
+        clue3: 'Director: Ivan Reitman',
+        clue4: "Tagline: They ain't afraid of no ghost.",
+        clue5: 'Characters: Dr. Peter Venkman, Dr. Raymond Stantz, Dana Barrett',
+        clue6: 'Stars: Bill Murray, Dan Aykroyd, Sigourney Weaver'
     }, 
     {
         title: 'About Time',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2013',
+        clue2: 'Genre: Comedy, Drama, Fantasy',
+        clue3: 'Director: Richard Curtis',
+        clue4: 'Tagline: A new funny film about love. With a bit of time travel.',
+        clue5: 'Characters: Tim, Mary, Kit Kat',
+        clue6: 'Stars: Domhnall Gleeson, Rachel McAdams, Bill Nighy'
     }, 
     {
         title: 'The Farewell',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2019',
+        clue2: 'Genre: Comedy, Drama',
+        clue3: 'Director: Lulu Wang',
+        clue4: 'Tagline: Based on an Actual Lie',
+        clue5: 'Characters: Nai Nai, Billi, Suze',
+        clue6: 'Stars: Shuzhen Zhao, Awkwafina, X Mayo'
     }, 
     {
         title: 'The Princess Bride',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1987',
+        clue2: 'Genre: Adventure, Family, Fantasy',
+        clue3: 'Director: Rob Reiner',
+        clue4: 'Tagline: The story of a man and a woman who lived happily ever after. Even though the courtship almost killed them.',
+        clue5: 'Characters: Westley, Iñigo Montoya, Prince Humperdinck',
+        clue6: 'Stars: Cary Elwes, Mandy Patinkin, Robin Wright'
     }, 
     {
         title: 'The Hangover',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2009',
+        clue2: 'Genre: Comedy',
+        clue3: 'Director: Todd Phillips',
+        clue4: "Tagline: Some guys just can't handle Vegas",
+        clue5: 'Characters: Alan, Phil, Mike Tyson',
+        clue6: 'Stars: Zach Galifianakis, Bradley Cooper, Ed Helms'
     }, 
     {
         title: 'Mulan',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 1998',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Tony Bancroft, Barry Cook',
+        clue4: 'Tagline: This time, the princess saves the prince.',
+        clue5: 'Characters: Mushu, Shang, Grandmother Fa',
+        clue6: 'Stars: Ming-Na Wen, Eddie Murphy, BD Wong'
     }, 
     {
         title: '21 Jump Street',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2012',
+        clue2: 'Genre: Action, Comedy, Crime',
+        clue3: 'Director: Phil Lord, Christopher Miller',
+        clue4: "Tagline: They're too old for this shift.",
+        clue5: 'Characters: Schmidt, Jenko, Captain Dickson',
+        clue6: 'Stars: Jonah Hill, Channing Tatum, Ice Cube'
     }, 
     {
         title: 'The Mitchells vs. The Machines',
-        clue1: 'Year Released: ',
-        clue2: 'Genre: ',
-        clue3: 'Director: ',
-        clue4: 'Tagline: ',
-        clue5: 'Characters: ',
-        clue6: 'Stars: '
+        clue1: 'Year Released: 2021',
+        clue2: 'Genre: Animation, Adventure, Comedy',
+        clue3: 'Director: Michael Rianda, Jeff Rowe',
+        clue4: 'Tagline: Prepare to get weird, cause the world depends on it.',
+        clue5: 'Characters: Katie, PAL, Deborahbot 5000',
+        clue6: 'Stars: Abbi Jacobson, Danny McBride, Maya Rudolph'
     }, 
     {
         title: 'The Edge of Seventeen',
