@@ -2287,57 +2287,57 @@ let answerData = [
     }, 
     {
         title: 'The Edge of Seventeen',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
+        clue1: '2016 - Comedy, Drama',
+        clue2: 'Director: Kelly Fremon Craig',
+        clue3: "Tagline: You're only young once... is it over yet?",
+        clue4: 'Characters: Nadine, Krista, Mr. Bruner',
+        clue5: 'Stars: Hailee Steinfeld, Haley Lu Richardson, Woody Harrelson',
         clue6: 'High-school life gets even more unbearable for Nadine when her best friend, Krista, starts dating her older brother.'
     }, 
     {
         title: '10 Cloverfield Lane',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '2016 - Action, Drama, Horror',
+        clue2: 'Director: Dan Trachtenberg',
+        clue3: 'Tagline: Monsters come in many forms',
+        clue4: 'Characters: Howard, Michelle, Emmett',
+        clue5: 'Stars: John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.',
+        clue6: 'A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.'
     }, 
     {
         title: 'The Rocky Horror Picture Show',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '1975 - Comedy, Horror, Musical',
+        clue2: 'Director: Jim Sharman',
+        clue3: 'Tagline: Give yourself over to absolute pleasure',
+        clue4: 'Characters: Dr. Frank-N-Furter, Janet Weiss, Riff Raff',
+        clue5: 'Stars: Tim Curry, Susan Sarandon, Barry Bostwick',
+        clue6: 'A newly-engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-n-Furter.'
     }, 
     {
         title: 'The Greatest Showman',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '2017 - Biography, Drama, Musical',
+        clue2: 'Director: Michael Gracey',
+        clue3: 'Tagline: The Impossible Comes True',
+        clue4: 'Characters: P.T. Barnum, Phillip Carlyle, Tom Thumb',
+        clue5: 'Stars: Hugh Jackman, Michelle Williams, Zac Efron',
+        clue6: 'Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.'
     }, 
     {
         title: 'Now You See Me',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '2013 - Crime, Mystery, Thriller',
+        clue2: 'Director: Louis Leterrier',
+        clue3: 'Tagline: Look closely, because the closer you think you are, the less you will actually see',
+        clue4: 'Characters: J. Daniel Atlas, Dylan Rhodes, Hypnotized Woman',
+        clue5: 'Stars: Jesse Eisenberg, Common, Mark Ruffalo',
+        clue6: 'An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.'
     }, 
     {
         title: 'Carrie',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '1976 - Horror, Mystery',
+        clue2: 'Director: Brian De Palma',
+        clue3: 'Tagline: If only they knew she had the power.',
+        clue4: 'Characters: Billy Nolan, Sue Snell, Carrie White',
+        clue5: 'Stars: Sissy Spacek, Piper Laurie, Amy Irving',
+        clue6: 'A shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.'
     }, 
     {
         title: 'Heathers',
@@ -2413,12 +2413,12 @@ let answerData = [
     }, 
     {
         title: 'Love Actually',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '2003 - Comedy, Drama, Romance',
+        clue2: 'Director: Richard Curtis',
+        clue3: 'Tagline: All You Need Is Love',
+        clue4: 'Characters: The Prime Minister, Billy Mack, Natalie',
+        clue5: 'Stars: Hugh Grant, Martine McCutcheon, Liam Neeson',
+        clue6: 'Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.'
     }, 
     {
         title: 'Crazy, Stupid, Love',
@@ -2512,12 +2512,12 @@ let answerData = [
     }, 
     {
         title: 'The Iron Giant',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '1999 - Animation, Action, Adventure',
+        clue2: 'Director: Brad Bird',
+        clue3: 'Tagline: Some secrets are too huge to hide',
+        clue4: 'Characters: Hogarth Hughes, Dean McCoppin, Annie Hughes',
+        clue5: 'Stars: Eli Marienthal, Jennifer Aniston, Vin Diesel',
+        clue6: 'A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.'
     }, 
     {
         title: 'Big Fish',
@@ -2566,12 +2566,12 @@ let answerData = [
     }, 
     {
         title: '28 Days Later',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '2002 - Drama, Horror, Sci-Fi',
+        clue2: 'Director: Danny Boyle',
+        clue3: 'Tagline: Day 1: Exposure - Day 3: Infection - Day 8: Epidemic - Day 15: Evacuation - Day 20: Devastation',
+        clue4: 'Characters: Jim, Major Henry West, Infected Priest',
+        clue5: 'Stars: Cillian Murphy, Naomie Harris, Christopher Eccleston',
+        clue6: 'Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.'
     }, 
     {
         title: "The King's Speech",
@@ -2845,12 +2845,12 @@ let answerData = [
     }, 
     {
         title: 'The Fifth Element',
-        clue1: ' - ',
-        clue2: 'Director: ',
-        clue3: 'Tagline: ',
-        clue4: 'Characters: ',
-        clue5: 'Stars: ',
-        clue6: ''
+        clue1: '1997 - Action, Adventure, Sci-Fi',
+        clue2: 'Director: Luc Besson',
+        clue3: 'Tagline: It Mu5t Be Found.',
+        clue4: 'Characters: Korben Dallas, Leeloo, Zorg',
+        clue5: 'Stars: Bruce Willis, Milla Jovovich, Gary Oldman',
+        clue6: 'In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.'
     }, 
     {
         title: '300',
